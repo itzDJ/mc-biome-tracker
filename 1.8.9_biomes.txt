@@ -1,0 +1,45 @@
+Ocean
+Plains
+Desert
+Extreme Hills
+Forest
+Taiga
+Swampland
+River
+Hell
+Sky
+FrozenOcean
+FrozenRiver
+Ice Plains
+Ice Mountains
+MushroomIsland
+MushroomIslandShore
+Beach
+DesertHills
+ForestHills
+TaigaHills
+Extreme Hills Edge
+Jungle
+JungleHills
+JungleEdge
+Deep Ocean
+Stone Beach
+Cold Beach
+Birch Forest
+Birch Forest Hills
+Roofed Forest
+Cold Taiga
+Cold Taiga Hills
+Mega Taiga
+Mega Taiga Hills
+Extreme Hills+
+Savanna
+Savanna Plateau
+Mesa
+Mesa Plateau F
+Mesa Plateau
+Sunflower Plains
+Flower Forest
+Ice Plains Spikes
+Mega Spruce Taiga
+Mesa
